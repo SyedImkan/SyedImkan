@@ -10,6 +10,8 @@
 
 - 📧 Email: syedimkan990@gmail.com
 
+## Projects
+- [Password Manager](https://github.com/SyedImkan/password-manager-python.git): Python Password Manager.
 
 ## Skills
 
@@ -22,3 +24,4 @@
 - LinkedIn: [Safikur Rahman](https://www.linkedin.com/in/safikur-rahman-84b4b124a/)
 
 Let's connect and build something awesome together!
+
