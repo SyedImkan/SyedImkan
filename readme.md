@@ -2,13 +2,13 @@
 
 ## About Me
 
-- 👋 Hi, I'm Safikur Rahman, from Kolkata, India.
-- 🎓 I have completed B.Tech from Calcutta Institute of Engineering and Management.
+- 👋 Hi, I'm Safikur Rahman, from West Haven, Connecticut.
+- 🎓 Currently, I'm pursuing MS in Computer Science from University of New Haven and have completed B.Tech from Calcutta Institute of Engineering and Management.
 - 🌱 I'm passionate about Web Development and exploring new technologies.
 
 ## Contact Me
 
-- 📧 Email: syedimkan990@gmail.com
+- 📧 Email: rahmansafikur691@gmail.com
 
 ## Projects
 - [Password Manager](https://github.com/SyedImkan/password-manager-python.git): Python Password Manager.
